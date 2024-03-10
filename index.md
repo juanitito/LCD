@@ -19,6 +19,6 @@ Vous retrouverez sur ce site :
 
 
 
-LASCIA CORRE DISTRIBUTION - AJACCIO - RCS EN COURS - 06 11 61 30 09 - http://www.lcd.corsica
+LASCIA CORRE DISTRIBUTION - AJACCIO - RCS EN COURS - 06 11 61 30 09
 
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
